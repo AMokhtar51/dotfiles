@@ -9,13 +9,6 @@ return {
 			function()
 				require("conform").format({ async = true })
 			end,
-			function()
-				require("conform").setup({
-					formatters_by_ft = {
-						python = { "black" },
-					},
-				})
-			end,
 			mode = "",
 			desc = "Format buffer",
 		},

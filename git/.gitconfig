@@ -1,0 +1,8 @@
+[user]
+	name = AMokhtar51
+	email = abdelrahman0ahmed1@gmail.com
+[init]
+	defaultBranch = main
+[safe]
+	directory = *
+	directory = *
